@@ -1,0 +1,47 @@
+/* Add CSS styling here */
+header{
+    text-align: center;
+  }
+  header nav .button1{
+    background-color:#e7e7e7; /* Green */
+    border: black;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  header nav .button2{
+      background-color:#e7e7e7; /* Green */
+    border: black;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  header nav .button3{
+      background-color:#e7e7e7; /* Green */
+    border: black;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  header nav .button4{
+     background-color:#e7e7e7; /* Green */
+    border: black;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+  }
+  .bio{
+    text-align: center;
+  }
